@@ -1,0 +1,101 @@
+0	rise up
+1	helix jump
+2	love balls
+3	fortnite
+4	instagram
+5	snapchat
+6	messenger
+7	facebook
+8	google maps
+9	harry potter hogwarts mystery
+10	bitmoji
+11	gmail
+12	spotify music
+13	netflix
+14	granny
+15	uber
+16	sky rusher
+17	whatsapp messenger
+18	pandora music
+19	cash app
+20	snake vs block
+21	amazon
+22	lyft
+23	google photos
+24	waze
+25	color road
+26	wish
+27	soundcloud
+28	venmo
+29	musically
+30	google docs
+31	mr gun
+32	google drive
+33	splashy
+34	hulu
+35	pinterest
+36	uber eats
+37	paypal
+38	baseball boy
+39	impossible bottle flip
+40	the cube
+41	vpn 360
+42	grandpa
+43	offerup
+44	flip the gun
+45	yelp
+46	word link
+47	microsoft outlook
+48	mmx hill dash 2
+49	poshmark
+50	word collect word puzzle game
+51	best vpn proxy betternet
+52	subway surfers
+53	flying arrow
+54	walmart
+55	songpop 2
+56	letgo
+57	candy crush saga
+58	shazam
+59	roblox
+60	google slides
+61	toon blast
+62	groupon
+63	photomath
+64	twisty road
+65	find my family friends phone
+66	credit karma
+67	rolly vortex
+68	doordash
+69	marco polo video walkie talkie
+70	x vpn
+71	lego star wars
+72	ebay
+73	episode
+74	iheartradio
+75	solitaire
+76	musi
+77	mcdonald's
+78	google translate
+79	knife hit
+80	dropbox
+81	chase mobile
+82	mlb tap sports baseball 2018
+83	parade
+84	starbucks
+85	unicorn
+86	amazon prime video
+87	huji cam
+88	bank of america
+89	target
+90	color your call
+91	choices
+92	groupme
+93	fitbit
+94	houseparty
+95	picsart
+96	xbox
+97	aliexpress
+98	layout from instagram
+99	color by number
+100	twitter
